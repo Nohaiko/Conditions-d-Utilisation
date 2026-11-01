@@ -19,7 +19,7 @@ Nostaria-BOT est un bot Discord conçu pour faciliter la gestion et l'organisati
 
 Les conditions d'utilisation sont disponibles ici :
 
-https://nohaiko.github.io/mon-bot-discord/
+https://nohaiko.github.io/Conditions-d-Utilisation/
 
 ---
 
